@@ -2,6 +2,7 @@
     position: absolute;
     width: 500px;
     left: calc(50% - 250px);
+    margin: 0;
     box-shadow: rgba(0,0,0,0.4) 0 6px 24px;
     background: white;
     top: 8px;
